@@ -1,6 +1,10 @@
 # 🚀 Productivity Tracker – Chrome Extension (MERN Stack)
 
-![Productivity Tracker UI](Screenshot%202026-05-18%20233758.png)
+![Productivity Tracker UI](./Screenshot 2026-05-18 233758.png)
+
+<p align="center">
+  <img src="./Screenshot 2026-05-18 233758.png" alt="Productivity Tracker Dashboard" width="900"/>
+</p>
 
 ## 📌 Internship Details
 
@@ -215,5 +219,3 @@ It helps users stay focused by tracking browsing habits, blocking distractions, 
 **Rahul Sunil Deshmukh**
 MERN Stack Web Development Intern
 CODTECH IT SOLUTIONS
-
-
